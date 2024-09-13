@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color:gray;
+}
+
+input[type="text"] {
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 12px;
+    font-size: 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#actividadContainer {
+    margin-top: 20px;
+}
+
+.actividad {
+    margin: 5px 0;
+}
+
+.completada {
+    text-decoration: line-through;
+    color: gray;
+}
